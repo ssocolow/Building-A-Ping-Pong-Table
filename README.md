@@ -4,3 +4,6 @@ The format is in the style of journal entries with the number of the entry first
 
 Here is a link to a google photos album that has pictures of the process:
 https://photos.app.goo.gl/uHVvM7qqXyGvQk4o9
+
+Here is a presentation on the project:
+https://drive.google.com/file/d/1ynTzOsQCYVe5C2cmQ-0j0_s7tCLMkqba/view?usp=sharing
